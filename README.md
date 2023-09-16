@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @khuong0104
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk:D
+  Hi , i am Bassu. i'm 16 years old. i am a high school student who want to know how to computer works!  
+  I have experience at python, Java, C++ , DSA
+
 - 📫 How to reach me @khuong0104
 
 <!---
