@@ -1,4 +1,4 @@
-  Hi , i am Bassu. i'm 16 years old. i'm a high school student who want to know how computer works!  
+  Hi , i'm Bassu. i'm 17 years old. i'm a high school student who want to know how computer works!  
   I have experience at python, Java, C++ , DSA
 
 - 📫 How to reach me:
